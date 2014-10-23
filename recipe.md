@@ -18,7 +18,10 @@ Cake
 Filling
 
 Frosting
-
-
+* 4 tablespoons unsalted butter, softened
+* 8 tablespoons cream cheese, softened
+* 1 1/2 cups powdered sugar, sifted
+* 1/2 teaspoon vanilla extract
+* 2 cinnamon sticks, for garnish
 
 Directions:
